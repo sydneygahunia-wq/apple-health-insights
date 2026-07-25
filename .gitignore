@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.DS_Store
+
+# Never commit a real health export — it is medical data.
+export.xml
+apple_health_export/
+health-report/

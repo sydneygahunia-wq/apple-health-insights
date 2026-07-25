@@ -1,0 +1,3 @@
+# Charts only. Parsing and analysis use the standard library alone, so
+# `summary` and `episodes` run on a bare Python 3.10+ install.
+matplotlib>=3.6
